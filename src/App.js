@@ -14,6 +14,9 @@ const App = () => {
           </h2> */}
         </div>
         <h4 className="description">
+          This prototype minimises the amount of personal data needed to assess eligibility for social housing support, while still providing information needed by social housing providers. <br />
+          Thus reducing the risk of bias against applicants based on their personal data. <br />
+
           IRESHA Sharecode app is currently hosted on Streamlit. <br />
           Click below to launch it:
         </h4>
