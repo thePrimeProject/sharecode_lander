@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
-import logo from "./goaat_logo.png";
+import logo from "./logo_IRESHA.png";
 
 const App = () => {
   return (
     <div className="container">
       <div className="content-column">
         <div className="title-logo">
-          <img src={logo} alt="GOAAT Logo" className="logo" />
+          <img src={logo} alt="IRESHA Logo" className="logo" />
           <h2 className="title">
             IRESHA Sharecode app
             <br />
@@ -34,12 +34,14 @@ const App = () => {
             <br></br>
             This work was done under the UKRI-funded (EP/W03235X/1, EP/W032333/1,
             EP/W032341/1, EP/W032058/1, EP/W032082/1) project called PRIME
-            (Protecting Minority Ethnic Communities Online). For more information,
-            comments or suggestions, please contact Mehdi Rizvi (s.rizvi@hw.ac.uk)
-            or Lynne Baillie (l.baillie@hw.ac.uk)
+            (Protecting Minority Ethnic Communities Online). 
+            For more information, comments or suggestions, please contact Mehdi Rizvi (s.rizvi@hw.ac.uk)
+          
           </p>
           <p>
-            The citation for this work is: Rizvi, M., Baillie, L., Pang, W.,
+            The citation for this work is: 
+            
+            Rizvi, M., Baillie, L., Pang, W.,
             Shahandashti, S., Yuan, Y., Ghosh, S., Lewinska, P., Chen, K.,
             Edmondson, A., Anil Kumar, A. S., Jagadeesan, V. B., Jacob, F., &
             Dodd, C. (2025). “Carefully Connected – Towards Designing More
