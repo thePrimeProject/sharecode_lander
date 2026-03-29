@@ -9,19 +9,18 @@ const App = () => {
         <img src={logo} alt="GOAAT Logo" className="logo" />
         <t />
         <h2 className="title">
-          GNN Output Area
+          IRESHA Sharecode app
           <br />
-          <span> Analysis Toolkit (GOAAT)</span>
         </h2>
       </div>
       <h4 className="description">
-        GOAAT is currently hosted on Streamlit. <br />
+        This app is currently hosted on Streamlit. <br />
         Click below to launch it:
       </h4>
       <button
         className="launch-button"
         onClick={() =>
-          (window.location.href = "https://goaatoolkit.streamlit.app")
+          (window.location.href = "https://iresha.streamlit.app")
         }
       >
         Launch app
