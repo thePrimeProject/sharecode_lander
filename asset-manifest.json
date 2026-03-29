@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.df1c7bcb.css",
-    "main.js": "/static/js/main.58f229c3.js",
+    "main.js": "/static/js/main.d2478937.js",
     "static/js/453.9a5d8618.chunk.js": "/static/js/453.9a5d8618.chunk.js",
+    "static/media/logo_IRESHA.png": "/static/media/logo_IRESHA.bbfd5f05be92eb1b6d56.png",
     "index.html": "/index.html",
     "main.df1c7bcb.css.map": "/static/css/main.df1c7bcb.css.map",
-    "main.58f229c3.js.map": "/static/js/main.58f229c3.js.map",
+    "main.d2478937.js.map": "/static/js/main.d2478937.js.map",
     "453.9a5d8618.chunk.js.map": "/static/js/453.9a5d8618.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df1c7bcb.css",
-    "static/js/main.58f229c3.js"
+    "static/js/main.d2478937.js"
   ]
 }
